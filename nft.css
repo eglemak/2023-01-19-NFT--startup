@@ -256,7 +256,7 @@ section.showcase ul.cards-list li.card-item .card-info .day {
 }
 
 section.showcase ul.cards-list li.card-item .card-info .eth::before {
-    content: url('/showcase-eth.png');
+    content: url('./showcase-eth.png');
     display: inline-block;
     padding-right: 7px;
 }
