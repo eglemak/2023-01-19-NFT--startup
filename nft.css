@@ -121,7 +121,7 @@ section.hero .foto {
 
 section.upsell {
     position: relative;
-    background-image: url('/upsell-background.svg');
+    background-image: url('./upsell-background.svg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 100px;
